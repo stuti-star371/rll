@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>showing output</h2>
+<h2>output</h2>
 </body>
 </html>
